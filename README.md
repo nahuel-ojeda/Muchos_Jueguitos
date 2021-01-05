@@ -11,6 +11,8 @@
   • Arrow functions
 
   Conecta 4 y gana
+  
+  
   Metodos usados:
   • querySelector()
   • addEventListener()
