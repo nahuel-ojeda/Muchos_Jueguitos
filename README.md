@@ -9,3 +9,13 @@
   • classList
   • forEach()
   • Arrow functions
+
+  Conecta 4 y gana
+  Metodos usados:
+  • querySelector()
+  • addEventListener()
+  • onclick
+  • classList.contains()
+  • classList.add()
+  • For loops
+  • Arrow functions
