@@ -21,3 +21,17 @@
   • classList.add()
   • For loops
   • Arrow functions
+ 
+ 
+ Vivorita del nokia
+  metodos usados:
+  • querySelector()
+  • addEventListener()
+  • setInterval()
+  • keyCodes
+  • pop()
+  • unshift()
+  • push()
+  • classList.contains()
+  • classList.add()
+  • classList.remove()
